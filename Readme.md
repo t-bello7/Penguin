@@ -1,5 +1,6 @@
-#Penguin Drawing
+**Penguin Drawing**
 This is a drawing with html and css
 
-#Screenshot
+**Screenshot**
+
 ![Alt text](/relative/path/to/screenshot.jpg?raw=true "Optional Title")
